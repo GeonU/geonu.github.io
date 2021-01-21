@@ -2,5 +2,5 @@
 layout: page
 title: About
 ---
-hello world!
+hello geonu!
 
